@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "private": true,
-  "homepage": "http://Alvaro-Neyra.github.io/react-example",
+  "homepage": "http://alvaro-neyra.github.io/react-example",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
