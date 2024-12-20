@@ -1,12 +1,5 @@
 # HOW TO DEPLOY A REACT APP IN GITHUB PAGES
 
-**Author**: `PedroTech`  
-**Type**: `TUTORIAL`  
-**Topics**: #REACT #GitHub #Vite #GitHubPages #Programacion  
-**Link**: [Link del video](https://www.youtube.com/watch?v=hn1IkJk24ow)
-
----
-
 ## **First Create a Vite React App**
 
 This is the full guide to install Vite: [Source here](https://vite.dev/guide/)
